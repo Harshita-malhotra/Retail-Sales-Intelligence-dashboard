@@ -29,3 +29,4 @@ product categories, and regional information.
 ## Conclusion
 This project demonstrates my ability to clean data, perform exploratory data
 analysis, and derive actionable business insights using Python for data analytics.
+This project was created as part of my data analytics learning journey.
